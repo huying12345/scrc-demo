@@ -1,0 +1,8 @@
+后台源码：http://172.16.100.117:8080/svn/D_1604_国药化学试剂B2B项目/06_源代码/02_Source/02_后端/trunk/reagent
+
+前端源码：https://www.leimingtech.com/svn/b2b2c_PC_react/branches/huashi-react-pc
+
+数据库：
+10.37.1.101:3306
+user：reagent
+pwd：reagent
