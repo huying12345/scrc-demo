@@ -1,8 +1,14 @@
-ºóÌ¨Ô´Âë£ºhttp://172.16.100.117:8080/svn/D_1604_¹úÒ©»¯Ñ§ÊÔ¼ÁB2BÏîÄ¿/06_Ô´´úÂë/02_Source/02_ºó¶Ë/trunk/reagent
+åå°æºç ï¼šhttp://172.16.100.117:8080/svn/D_1604_å›½è¯åŒ–å­¦è¯•å‰‚B2Bé¡¹ç›®/06_æºä»£ç /02_Source/02_åç«¯/trunk/reagent
+è´¦å·ï¼šhuying
+å¯†ç ï¼šhuying
 
-Ç°¶ËÔ´Âë£ºhttps://www.leimingtech.com/svn/b2b2c_PC_react/branches/huashi-react-pc
 
-Êı¾İ¿â£º
+å‰ç«¯æºç ï¼šhttps://www.leimingtech.com/svn/b2b2c_PC_react/branches/huashi-react-pc
+è´¦å·ï¼šguoyaokonggu
+å¯†ç ï¼šguoyaokonggu20170622@$^
+
+æ•°æ®åº“ï¼š
 10.37.1.101:3306
-user£ºreagent
-pwd£ºreagent
+userï¼šreagent
+pwdï¼šreagent
+
