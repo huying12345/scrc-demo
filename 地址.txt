@@ -8,7 +8,8 @@
 密码：guoyaokonggu20170622@$^
 
 数据库：
-10.37.1.101:3306
-user：reagent
-pwd：reagent
+
+数据库：172.16.10.233
+用户名：reagent
+密码：reagent
 
