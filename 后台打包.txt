@@ -1,7 +1,0 @@
-打开Xshell
-服务器地址：172.16.10.233
-用户名：root
-密码：53530780
-
-进入项目log目录：cd  /home/websvr/tomcat/logs
-执行命令：tail  -f  catalina.out
